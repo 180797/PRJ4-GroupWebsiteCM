@@ -43,3 +43,8 @@ p {
 font-family: 'Roboto', sans-serif;
 	}
 
+#quote h1 { 
+color: #b1d0c8;
+text-align: center;
+font-size: 75px; 
+ }
