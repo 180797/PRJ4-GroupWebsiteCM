@@ -5,10 +5,10 @@ body {
 }
 
 #part1 {
-    background: white;
+    background: #3faf64;
     text-align: center;
     padding: 0.5em;
-    border: 4px solid #000
+    
 }
 
 .container {
@@ -37,6 +37,7 @@ body {
 	color: blue;
 }
 
+<<<<<<< HEAD
 .navbar
 {background-color:#00E44D!important}
 
@@ -60,4 +61,22 @@ body {
 }
 .navbar-toggler{
 	background-color:#00E44D
+=======
+h1, h2, h3, h4 {
+font-family: 'Fjalla One', sans-serif;
+} 
+
+p { 
+font-family: 'Roboto', sans-serif;
+	}
+
+.col-sm quote, h1 { 
+color: #b1d0c8;
+text-align: center; 
+font-size: 75px;
+}
+
+.col-sm .logo {
+align align-items: center; 
+>>>>>>> 94f8de6ec81c59d74b12473a3b7f09ffb747a685
 }
