@@ -1,0 +1,48 @@
+/* CSS Document */
+body {
+background-color: #072826; 
+ } 
+
+	.container {
+	padding-bottom: 50px;
+}
+
+.nav { 
+background: #6793DF; 
+  }
+	
+a, .nav {
+color: black;
+ }
+
+h1, h2, h3, h4 {
+font-family: 'Fjalla One', sans-serif;
+
+p { 
+font-family: 'Roboto', sans-serif;
+	}
+	
+	.navbar
+{background-color:#3faf64!important}
+
+.navbar .navbar-brand {
+	color:aliceblue
+}
+
+.navbar .navbar-brand:hover{
+	color: #072826; 
+}
+
+.navbar .navbar-nav li a{ 
+	color: aliceblue
+}
+
+.navbar .nav-item .dropdown-menu .dropdown-item{ 
+	background-color:#3faf64!important
+}
+.navbar .nav-item .dropdown-menu .dropdown-item:hover{
+	background-color:#3faf64!important
+}
+.navbar-toggler{
+	background-color:#3faf64
+}
