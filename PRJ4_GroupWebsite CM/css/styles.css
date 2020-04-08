@@ -53,3 +53,27 @@ font-size: 75px;
 align align-items: center; 
 }
 
+.navbar
+{background-color:#3faf64!important}
+
+.navbar .navbar-brand{
+	color:aliceblue
+}
+
+.navbar .navbar-brand:hover{
+	color: #072826; 
+}
+
+.navbar .navbar-nav li a{ 
+	color: aliceblue
+}
+
+.navbar .nav-item .dropdown-menu .dropdown-item{ 
+	background-color:#3faf64!important
+}
+.navbar .nav-item .dropdown-menu .dropdown-item:hover{
+	background-color:#3faf64!important
+}
+.navbar-toggler{
+	background-color:#3faf64
+}
