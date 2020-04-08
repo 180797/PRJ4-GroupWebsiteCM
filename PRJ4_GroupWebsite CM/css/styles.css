@@ -6,33 +6,11 @@ body {
 #part1 {
     background: #3faf64;
     text-align: center;
-    padding: 0.5em;
-    
+    padding: 0.5em; 
 }
+
 .container {
     padding-bottom: 50px;
-}
-.lion {
-    border: dashed #2B1974;
-    padding: 0.5em;
-}
-
-
-.btn {
-	background: #EF3B3E; 
-}
-
-.btn:hover {
-	background: yellow;
-}
-
-.btn-primary {
-	color: black;
-	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif"; 
-}
-
-.btn-primary:hover {
-	color: blue;
 }
 
 h1, h2, h3, h4 {
@@ -56,7 +34,7 @@ align align-items: center;
 .navbar
 {background-color:#3faf64!important}
 
-.navbar .navbar-brand{
+.navbar .navbar-brand {
 	color:aliceblue
 }
 
