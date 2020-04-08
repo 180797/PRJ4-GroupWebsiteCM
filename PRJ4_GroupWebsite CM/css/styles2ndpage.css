@@ -25,14 +25,14 @@ border: 4px solid #000
 }
 
 .navbar
-{background-color:#00E44D!important}
+{background-color:#3faf64!important}
 
 .navbar .navbar-brand{
 	color:aliceblue
 }
 
 .navbar .navbar-brand:hover{
-	color: aliceblue
+	color: #072826; 
 }
 
 .navbar .navbar-nav li a{ 
@@ -40,11 +40,11 @@ border: 4px solid #000
 }
 
 .navbar .nav-item .dropdown-menu .dropdown-item{ 
-	background-color:#00E44D!important
+	background-color:#3faf64!important
 }
 .navbar .nav-item .dropdown-menu .dropdown-item:hover{
-	background-color:#00E44D!important
+	background-color:#3faf64!important
 }
 .navbar-toggler{
-	background-color:#00E44D
+	background-color:#3faf64
 }
