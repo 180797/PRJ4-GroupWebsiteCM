@@ -1,31 +1,20 @@
 /* CSS Document */
 body {
-background-color: #072826; 
+background-color: #072826;  
  } 
-
-	.container {
-	padding-bottom: 50px;
-}
-
-.nav { 
-background: #6793DF; 
-  }
-	
-a, .nav {
-color: black;
- }
 
 h1, h2, h3, h4 {
 font-family: 'Fjalla One', sans-serif;
+} 
 
 p { 
 font-family: 'Roboto', sans-serif;
 	}
-	
-	.navbar
+
+.navbar
 {background-color:#3faf64!important}
 
-.navbar .navbar-brand {
+.navbar .navbar-brand{
 	color:aliceblue
 }
 

@@ -24,7 +24,7 @@ font-family: 'Roboto', sans-serif;
 .col-sm quote, h1 { 
 color: #b1d0c8;
 text-align: center; 
-font-size: 75px;
+font-size: 67px;
 }
 
 .col-sm .logo {
@@ -51,7 +51,7 @@ align align-items: center;
 }
 .navbar .nav-item .dropdown-menu .dropdown-item:hover{
 	background-color:#3faf64!important
-}
+}s
 .navbar-toggler{
 	background-color:#3faf64
 }
