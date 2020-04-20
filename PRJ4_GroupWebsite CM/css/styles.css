@@ -59,4 +59,16 @@ align align-items: center;
 .shoptitle { 
 background: #3faf64; 
 background-size: cover;
+padding: 0.10em; 
 }
+
+.shoptitle h2 {
+ color: #072826; 
+ text-align: center;
+	padding: 0.10em;
+}
+
+.container-shop p {
+	color: #B1D0C8;
+	}
+
