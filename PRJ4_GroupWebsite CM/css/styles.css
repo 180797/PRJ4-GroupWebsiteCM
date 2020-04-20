@@ -55,3 +55,8 @@ align align-items: center;
 .navbar-toggler{
 	background-color:#3faf64
 }
+
+.shoptitle { 
+background: #3faf64; 
+background-size: cover;
+}
