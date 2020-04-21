@@ -1,42 +1,36 @@
 @charset "utf-8";
+
 /* CSS Document */
 body {
     background-color: #072826;
 }
-#part1 {
+
+#learn {
     background: #3faf64;
     text-align: center;
     padding: 0.5em; 
-	background-size: cover; 
-}
-
-.container {
-    padding-bottom: 50px;
-}
+	background-size: cover;
+  }
 
 h1, h2, h3, h4 {
 font-family: 'Fjalla One', sans-serif;
 } 
 
-p { 
-font-family: 'Roboto', sans-serif;
-	}
-
-.col-sm-quote h1 { 
+.col-sm .quote, h1 { 
 color: #b1d0c8;
 text-align: center; 
 font-size: 65px;
 }
 
-.col-sm-quote p {
+.col-sm .quote, p {
 	color: #B1D0C8; 
 	text-align: center;
-	font-family: 'Mr Dafoe', cursive;
 	font-size: 25px; 
+	font-family: 'Mr Dafoe', cursive; 
 }
 
 .col-sm .logo {
-align align-items: center; 
+align-items: center; 
 }
 
 .navbar
@@ -78,13 +72,22 @@ padding: 0.10em;
 
 .container-shop p {
 	color: #B1D0C8;
+	font-family: 'Roboto', sans-serif;
+	font-size: 16px;
+	text-align: left; 
 	}
 
 .container-shop {
 	padding: 2em;
-	
 }
 
 .btn { 
 background-color:#B1D0C8;
-size}
+color: #072826; 
+font-size: 25px; 
+font-family: 'Fjalla One', sans-serif;
+ } 
+
+.btn a { 
+color: #072826; 
+}
