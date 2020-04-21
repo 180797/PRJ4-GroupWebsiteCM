@@ -35,3 +35,7 @@ font-family: 'Roboto', sans-serif;
 .navbar-toggler{
 	background-color:#3faf64
 }
+
+/* Style to change separator  */
+    .breadcrumb-item + .breadcrumb-item::before {
+        content: ">";
