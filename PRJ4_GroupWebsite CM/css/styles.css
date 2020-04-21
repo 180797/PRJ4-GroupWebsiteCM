@@ -12,6 +12,11 @@ body {
 	background-size: cover;
   }
 
+#learn p {
+   font-family: 'Roboto', sans-serif;
+ font-size: 20px;
+  }
+
 h1, h2, h3, h4 {
 font-family: 'Fjalla One', sans-serif;
 } 
