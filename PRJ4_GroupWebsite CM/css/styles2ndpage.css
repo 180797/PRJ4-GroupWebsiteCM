@@ -38,6 +38,9 @@ font-family: 'Roboto', sans-serif;
 .wolk {
 margin-left: 70px;
 }
+.col-sm, h1{
+	color:#B1D0C8;
+}
 
 /* Style to change separator  */
     .breadcrumb-item + .breadcrumb-item::before {
