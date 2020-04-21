@@ -22,10 +22,17 @@ p {
 font-family: 'Roboto', sans-serif;
 	}
 
-.col-sm quote, h1 { 
+.col-sm-quote h1 { 
 color: #b1d0c8;
 text-align: center; 
-font-size: 67px;
+font-size: 65px;
+}
+
+.col-sm-quote p {
+	color: #B1D0C8; 
+	text-align: center;
+	font-family: 'Mr Dafoe', cursive;
+	font-size: 25px; 
 }
 
 .col-sm .logo {
@@ -77,3 +84,7 @@ padding: 0.10em;
 	padding: 2em;
 	
 }
+
+.btn { 
+background-color:#B1D0C8;
+size}
