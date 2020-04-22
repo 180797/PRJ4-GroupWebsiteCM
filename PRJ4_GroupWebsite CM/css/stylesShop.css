@@ -71,6 +71,16 @@ p {
 .navbar-toggler {
   background-color: #3faf64
 }
+.btn { 
+background-color:#B1D0C8;
+color: #072826; 
+font-size: 25px; 
+font-family: 'Fjalla One', sans-serif;
+ } 
+
+.btn a { 
+color: #072826; 
+}
 /* Style to change separator  */
 .breadcrumb-item + .breadcrumb-item::before {
   content: ">";
