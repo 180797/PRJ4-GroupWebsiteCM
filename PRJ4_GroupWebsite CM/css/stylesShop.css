@@ -23,7 +23,29 @@ font-family: 'Roboto', sans-serif;
     padding-left: 5em; 
 	padding-right: 5em;
 } 
-	
+	#shop2 {
+    text-align: center;
+    padding: 1em; 
+	background-size: cover;
+	color: #b1d0c8; 
+  }
+
+#shop1 p {
+    text-align: center;
+    padding-left: 5em; 
+	padding-right: 5em;
+} #shop3 {
+    text-align: center;
+    padding: 1em; 
+	background-size: cover;
+	color: #b1d0c8; 
+  }
+
+#shop3 p {
+    text-align: center;
+    padding-left: 5em; 
+	padding-right: 5em;
+} 
 
 .lion { 
 padding-bottom: 1em;
