@@ -1,82 +1,76 @@
 /* CSS Document */
 body {
-background-color: #072826;  
- } 
-
+  background-color: #072826;
+}
 h1, h2, h3, h4 {
-font-family: 'Fjalla One', sans-serif;
-} 
-
-p { 
-font-family: 'Roboto', sans-serif;
-	}
-
+  font-family: 'Fjalla One', sans-serif;
+}
+p {
+  font-family: 'Roboto', sans-serif;
+}
 #shop1 {
-    text-align: center;
-    padding: 1em; 
-	background-size: cover;
-	color: #b1d0c8; 
-  }
+  text-align: center;
+  padding: 1em;
+  background-size: cover;
+  color: #b1d0c8;
+}
+#shop1 p {
+  text-align: center;
+  padding-left: 5em;
+  padding-right: 5em;
+}
+#shop2 {
+  text-align: center;
+  padding: 1em;
+  background-size: cover;
+  color: #b1d0c8;
+}
 
 #shop1 p {
-    text-align: center;
-    padding-left: 5em; 
-	padding-right: 5em;
-} 
-	#shop2 {
-    text-align: center;
-    padding: 1em; 
-	background-size: cover;
-	color: #b1d0c8; 
-  }
-
-#shop1 p {
-    text-align: center;
-    padding-left: 5em; 
-	padding-right: 5em;
-} #shop3 {
-    text-align: center;
-    padding: 1em; 
-	background-size: cover;
-	color: #b1d0c8; 
-  }
-
+  text-align: center;
+  padding-left: 5em;
+  padding-right: 5em;
+}
+#shop3 {
+  text-align: center;
+  padding: 1em;
+  background-size: cover;
+  color: #b1d0c8;
+}
 #shop3 p {
-    text-align: center;
-    padding-left: 5em; 
-	padding-right: 5em;
-} 
-
-.lion { 
-padding-bottom: 1em;
+  text-align: center;
+  padding-left: 5em;
+  padding-right: 5em;
 }
-
-
-.navbar
-{background-color:#3faf64!important}
-
-.navbar .navbar-brand{
-	color:aliceblue
+.box1 {
+  padding-bottom: 1.5em;
 }
-
-.navbar .navbar-brand:hover{
-	color: #072826; 
+.box2 {
+  padding-bottom: 1.5em;
+}.box3 {
+  padding-bottom: 1.5em;
 }
-
-.navbar .navbar-nav li a{ 
-	color: aliceblue
+.navbar {
+  background-color: #3faf64 !important
 }
-
-.navbar .nav-item .dropdown-menu .dropdown-item{ 
-	background-color:#3faf64!important
+.navbar .navbar-brand {
+  color: aliceblue
 }
-.navbar .nav-item .dropdown-menu .dropdown-item:hover{
-	background-color:#3faf64!important
+.navbar .navbar-brand:hover {
+  color: #072826;
 }
-.navbar-toggler{
-	background-color:#3faf64
+.navbar .navbar-nav li a {
+  color: aliceblue
 }
-
+.navbar .nav-item .dropdown-menu .dropdown-item {
+  background-color: #3faf64 !important
+}
+.navbar .nav-item .dropdown-menu .dropdown-item:hover {
+  background-color: #3faf64 !important
+}
+.navbar-toggler {
+  background-color: #3faf64
+}
 /* Style to change separator  */
-    .breadcrumb-item + .breadcrumb-item::before {
-        content: ">";
+.breadcrumb-item + .breadcrumb-item::before {
+  content: ">";
