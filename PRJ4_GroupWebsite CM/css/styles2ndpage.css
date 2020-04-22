@@ -5,17 +5,21 @@ background-color: #072826;
 
 h1, h2, h3, h4 {
 font-family: 'Fjalla One', sans-serif;
+	margin-top: 25px;
 } 
 
 p { 
 font-family: 'Roboto', sans-serif;
 	}
+.tree {
+    text-align: right;
+	margin-top: 7px}
 
 .navbar
 {background-color:#3faf64!important}
 
 .navbar .navbar-brand{
-	color:aliceblue
+	
 }
 
 .navbar .navbar-brand:hover{
@@ -34,4 +38,15 @@ font-family: 'Roboto', sans-serif;
 }
 .navbar-toggler{
 	background-color:#3faf64
+}
+.wolk {
+margin-left: 70px;
+}
+.col-sm, h1{
+	color:#B1D0C8;
+}
+
+/* Style to change separator  */
+    .breadcrumb-item + .breadcrumb-item::before {
+        content: ">";.row .col-sm.tree p {
 }
