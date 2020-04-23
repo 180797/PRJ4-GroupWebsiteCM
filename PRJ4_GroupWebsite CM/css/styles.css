@@ -97,6 +97,8 @@ font-family: 'Fjalla One', sans-serif;
 color: #072826; 
 }
 
-.footer-copyright
-{color:whitesmoke;
-position: }
+.footer-copyright{
+	color:#3faf64;
+background-color:#B1D0C8;
+margin-top: 30px	;
+}

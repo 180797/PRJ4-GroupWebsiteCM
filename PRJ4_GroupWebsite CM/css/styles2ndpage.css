@@ -51,6 +51,7 @@ margin-left: 70px;
 background-color:#B1D0C8;
 	;
 }
+
 /* Style to change separator  */
     .breadcrumb-item + .breadcrumb-item::before {
         content: ">";.row .col-sm.tree p {

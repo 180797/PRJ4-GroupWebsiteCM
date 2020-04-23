@@ -85,3 +85,9 @@ color: #072826;
 .breadcrumb-item + .breadcrumb-item::before {
   content: ">";
 }
+
+.footer-copyright{
+	color:#3faf64;
+background-color:#B1D0C8;
+margin-top: 30px	;
+}
