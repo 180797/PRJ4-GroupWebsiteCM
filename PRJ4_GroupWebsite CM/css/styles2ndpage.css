@@ -15,8 +15,9 @@ font-family: 'Roboto', sans-serif;
     text-align: right;
 	margin-top: 7px}
 
-.navbar
-{background-color:#3faf64!important}
+.navbar{
+	background-color:#3faf64!important
+}
 
 .navbar .navbar-brand{
 	
@@ -45,9 +46,11 @@ margin-left: 70px;
 .col-sm, h1{
 	color:#B1D0C8;
 }
-.footer-copyright
-{color:whitesmoke;
-position: }
+.footer-copyright{
+	color:#3faf64;
+background-color:#B1D0C8;
+	;
+}
 /* Style to change separator  */
     .breadcrumb-item + .breadcrumb-item::before {
         content: ">";.row .col-sm.tree p {
