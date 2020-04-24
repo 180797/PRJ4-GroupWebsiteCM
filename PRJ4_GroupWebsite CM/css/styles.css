@@ -86,6 +86,14 @@ padding: 0.10em;
 	padding: 2em;
 }
 
+.container-shop .card p { 
+color: #072826; 
+}
+
+.card-body { 
+background-color: #B1D0C8; 
+}
+
 .btn { 
 background-color:#B1D0C8;
 color: #072826; 

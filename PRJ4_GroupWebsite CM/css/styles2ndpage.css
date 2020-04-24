@@ -65,6 +65,5 @@ li {
 }
 /* Style to change separator  */
     .breadcrumb-item + .breadcrumb-item::before {
-        content: ">";.row .col-sm.tree p {
-}
-position: }
+		content: ">";  
+	
