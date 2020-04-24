@@ -11,6 +11,11 @@ p {
 font-family: 'Roboto', sans-serif;
 	}
 
+.headerdesign h1 { 
+color: #B1D0C8;
+text-align: center;
+font-size: 60px; 
+}
 .navbar
 {background-color:#3faf64!important}
 
@@ -42,7 +47,26 @@ li {
 	font-family: 'Roboto', sans-serif;
 }
 
-.footer-copyright{
+#navigation {
+    text-align: center;
+    padding: 1em;
+    background-size: cover;
+    color: #b1d0c8;
+}
+#navigation p {
+    text-align: center;
+    padding-left: 5em;
+	padding-right: 5em; }
+
+.Navchart {
+	padding-bottom: 1.5em; 
+} 
+
+.colorscheme{ 
+padding-bottom: 1.5em; 
+}
+	
+.footer-copyright {
 	color:072826;
 background-color:#B1D0C8;
 margin-top: 30px	;
