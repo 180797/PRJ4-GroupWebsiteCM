@@ -1,69 +1,71 @@
 /* CSS Document */
 body {
-background-color: #072826;  
- } 
-
-h1, h2, h3, h4 {
-font-family: 'Fjalla One', sans-serif;
-	margin-top: 25px;
-} 
-
-.headerabout h1 { 
-color: #B1D0C8;
-text-align: center;
-font-size: 60px; 
+    background-color: #072826;
 }
-
-p { 
-font-family: 'Roboto', sans-serif;
-	}
+h1, h2, h3, h4 {
+    font-family: 'Fjalla One', sans-serif;
+    margin-top: 25px;
+}
+.headerabout h1 {
+    color: #B1D0C8;
+    text-align: center;
+    font-size: 60px;
+}
+p {
+    font-family: 'Roboto', sans-serif;
+}
 .tree {
     text-align: right;
-	margin-top: 7px}
-
-.navbar{
-	background-color:#3faf64!important
+    margin-top: 7px
 }
-
-.navbar .navbar-brand:hover{
-	color: #072826; 
+.navbar {
+    background-color: #3faf64 !important
 }
-
-.navbar .navbar-nav li a{ 
-	color: aliceblue
+.navbar .navbar-brand:hover {
+    color: #072826;
 }
-
-.navbar .nav-item .dropdown-menu .dropdown-item{ 
-	background-color:#3faf64!important
+.navbar .navbar-nav li a {
+    color: aliceblue
 }
-.navbar .nav-item .dropdown-menu .dropdown-item:hover{
-	background-color:#3faf64!important
+.navbar .nav-item .dropdown-menu .dropdown-item {
+    background-color: #3faf64 !important
 }
-.navbar-toggler{
-	background-color:#3faf64
+.navbar .nav-item .dropdown-menu .dropdown-item:hover {
+    background-color: #3faf64 !important
+}
+.navbar-toggler {
+    background-color: #3faf64
 }
 .wolk {
-margin-left: 70px;
+    margin-left: 70px;
 }
-.col-sm, h1{
-	color:#B1D0C8;
+.col-sm, h1 {
+    color: #B1D0C8;
 }
-.footer-copyright{
-	color:072826;
-background-color:#B1D0C8;
-margin-top: 30px	;
+.footer-copyright {
+    color: 072826;
+    background-color: #B1D0C8;
+    margin-top: 30px;
 }
-
-.page-footer a { 
-	color: #3faf64; 
-} 
+.page-footer a {
+    color: #3faf64;
+}
 .breadcrumb {
-	background: #B1D0C8;
+    background: #B1D0C8;
 }
 li {
-	font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto', sans-serif;
 }
 /* Style to change separator  */
-    .breadcrumb-item + .breadcrumb-item::before {
-		content: ">";  
+.breadcrumb-item + .breadcrumb-item::before {
+    content: ">";
+}
+.team h1 {
+    align-content: center;
+	padding-bottom: 1em;
+}
+
+.team { 
+padding: 5em;
 	
+}

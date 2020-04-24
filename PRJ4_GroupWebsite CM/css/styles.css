@@ -9,12 +9,13 @@ body {
     background: #3faf64;
     text-align: center;
     padding: 0.5em; 
-	background-size: cover;
+	background-size: cover; 
   }
 
 #learn p {
    font-family: 'Roboto', sans-serif;
  font-size: 20px;
+	color: #072826;
   }
 
 h1, h2, h3, h4 {
@@ -93,6 +94,7 @@ color: #072826;
 .card-body { 
 background-color: #B1D0C8; 
 }
+
 
 .btn { 
 background-color:#B1D0C8;
