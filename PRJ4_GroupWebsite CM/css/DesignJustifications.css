@@ -2,11 +2,7 @@
 body {
 background-color: #072826;  
  } 
-.footer-copyright{
-	color:#3faf64;
-background-color:#B1D0C8;
-margin-top: 30px	;
-}
+
 h1, h2, h3, h4 {
 font-family: 'Fjalla One', sans-serif;
 } 
@@ -45,6 +41,16 @@ font-family: 'Roboto', sans-serif;
 li {
 	font-family: 'Roboto', sans-serif;
 }
+
+.footer-copyright{
+	color:072826;
+background-color:#B1D0C8;
+margin-top: 30px	;
+}
+
+.page-footer a { 
+	color: #3faf64; 
+} 
 
 /* Style to change separator  */
     .breadcrumb-item + .breadcrumb-item::before {

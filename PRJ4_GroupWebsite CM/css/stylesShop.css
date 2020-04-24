@@ -1,99 +1,106 @@
 /* CSS Document */
 body {
-  background-color: #072826;
+    background-color: #072826;
 }
 h1, h2, h3, h4 {
-  font-family: 'Fjalla One', sans-serif;
+    font-family: 'Fjalla One', sans-serif;
 }
+.headershop h1 { 
+color: #B1D0C8;
+text-align: center;
+font-size: 60px; 
+}
+
 p {
-  font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto', sans-serif;
 }
 #shop1 {
-  text-align: center;
-  padding: 1em;
-  background-size: cover;
-  color: #b1d0c8;
+    text-align: center;
+    padding: 1em;
+    background-size: cover;
+    color: #b1d0c8;
 }
 #shop1 p {
-  text-align: center;
-  padding-left: 5em;
-  padding-right: 5em;
+    text-align: center;
+    padding-left: 5em;
+    padding-right: 5em;
 }
 #shop2 {
-  text-align: center;
-  padding: 1em;
-  background-size: cover;
-  color: #b1d0c8;
+    text-align: center;
+    padding: 1em;
+    background-size: cover;
+    color: #b1d0c8;
 }
-
 #shop1 p {
-  text-align: center;
-  padding-left: 5em;
-  padding-right: 5em;
+    text-align: center;
+    padding-left: 5em;
+    padding-right: 5em;
 }
 #shop3 {
-  text-align: center;
-  padding: 1em;
-  background-size: cover;
-  color: #b1d0c8;
+    text-align: center;
+    padding: 1em;
+    background-size: cover;
+    color: #b1d0c8;
 }
 #shop3 p {
-  text-align: center;
-  padding-left: 5em;
-  padding-right: 5em;
+    text-align: center;
+    padding-left: 5em;
+    padding-right: 5em;
 }
 .box1 {
-  padding-bottom: 1.5em;
+    padding-bottom: 1.5em;
 }
 .box2 {
-  padding-bottom: 1.5em;
-}.box3 {
-  padding-bottom: 1.5em;
+    padding-bottom: 1.5em;
+}
+.box3 {
+    padding-bottom: 1.5em;
 }
 .navbar {
-  background-color: #3faf64 !important
+    background-color: #3faf64 !important
 }
 .navbar .navbar-brand {
-  color: aliceblue
+    color: aliceblue
 }
 .navbar .navbar-brand:hover {
-  color: #072826;
+    color: #072826;
 }
 .navbar .navbar-nav li a {
-  color: aliceblue
+    color: aliceblue
 }
 .navbar .nav-item .dropdown-menu .dropdown-item {
-  background-color: #3faf64 !important
+    background-color: #3faf64 !important
 }
 .navbar .nav-item .dropdown-menu .dropdown-item:hover {
-  background-color: #3faf64 !important
+    background-color: #3faf64 !important
 }
 .navbar-toggler {
-  background-color: #3faf64
+    background-color: #3faf64
 }
-.btn { 
-background-color:#B1D0C8;
-color: #072826; 
-font-size: 25px; 
-font-family: 'Fjalla One', sans-serif;
- } 
-
-.btn a { 
-color: #072826; 
+.btn {
+    background-color: #B1D0C8;
+    color: #072826;
+    font-size: 25px;
+    font-family: 'Fjalla One', sans-serif;
+}
+.btn a {
+    color: #072826;
 }
 /* Style to change separator  */
 .breadcrumb-item + .breadcrumb-item::before {
-  content: ">";
+    content: ">";
 }
-
-.footer-copyright{
-	color:#3faf64;
-background-color:#B1D0C8;
-margin-top: 30px	;
+.footer-copyright {
+    color: 072826;
+    background-color: #B1D0C8;
+    margin-top: 30px;
+}
+.page-footer a {
+    color: #3faf64;
 }
 .breadcrumb {
-	background: #B1D0C8;
+    background: #B1D0C8;
 }
 li {
-	font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto', sans-serif;
 }

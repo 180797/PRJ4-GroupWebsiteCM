@@ -8,6 +8,12 @@ font-family: 'Fjalla One', sans-serif;
 	margin-top: 25px;
 } 
 
+.headerabout h1 { 
+color: #B1D0C8;
+text-align: center;
+font-size: 60px; 
+}
+
 p { 
 font-family: 'Roboto', sans-serif;
 	}
@@ -17,10 +23,6 @@ font-family: 'Roboto', sans-serif;
 
 .navbar{
 	background-color:#3faf64!important
-}
-
-.navbar .navbar-brand{
-	
 }
 
 .navbar .navbar-brand:hover{
@@ -47,10 +49,14 @@ margin-left: 70px;
 	color:#B1D0C8;
 }
 .footer-copyright{
-	color:#3faf64;
+	color:072826;
 background-color:#B1D0C8;
-	;
+margin-top: 30px	;
 }
+
+.page-footer a { 
+	color: #3faf64; 
+} 
 .breadcrumb {
 	background: #B1D0C8;
 }
